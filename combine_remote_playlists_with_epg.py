@@ -5,22 +5,22 @@ import re
 # ===== CONFIGURATION =====
 # Add or remove playlist URLs here as needed
 PLAYLISTS = [
-    "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/direct.m3u8", 
-    "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/base.m3u8", 
+    "", 
+    "", 
     "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/abcbluenetwork.m3u8", 
     "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/columbiabroadcasting.m3u8", 
     "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/foxnet.m3u8", 
     "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/independentcw.m3u8", 
-    "https://github.com/insa-ship-it/music/raw/refs/heads/main/combined_playlist.m3u", 
-    "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/rocket300.m3u8", 
-    "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/247.m3u", 
-    "https://github.com/insa-ship-it/sports/raw/refs/heads/main/power/power.m3u8", 
-    "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/events.m3u8",
-    "https://github.com/BuddyChewChew/sports/raw/refs/heads/main/liveeventsfilter.m3u8", 
-    "https://github.com/insa-ship-it/sports/raw/refs/heads/main/Roxiestreams.m3u", 
-    "https://github.com/insa-ship-it/Appm3u-combo/raw/refs/heads/main/combined_playlist.m3u", 
-    "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/ott-news.m3u8",
-    "https://github.com/insa-ship-it/Buddystreams/raw/refs/heads/main/tv.m3u", 
+    "", 
+    "", 
+    "", 
+    "", 
+    "",
+    "", 
+    "", 
+    "", 
+    "",
+    "", 
     # Add more playlists here in the format: "URL_TO_PLAYLIST"
 ]
 
